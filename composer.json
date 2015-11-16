@@ -1,0 +1,17 @@
+{
+  "name": "abkrim/resellerclub",
+  "description": "Littel app for create and assign new contacts to domains .ES",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Abdelkarim Mateos",
+      "email": "abdelkarim@tamainut.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Abkrim\\Rclub": "vendor/abkrim/rclub/src/"
+    }
+  }
+}
+
